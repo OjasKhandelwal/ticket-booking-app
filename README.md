@@ -1,3 +1,3 @@
-I created this simple basic project while learning Go-Lang. 
+I created this small & simple project while learning Go-Lang. 
 
 Thankyou :)
